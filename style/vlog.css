@@ -1,6 +1,7 @@
 div{
 
     background-color: bisque;
-    background-image: url("../images/develo/dd.png.png") ;
+    
     padding: 20px;
+    margin-bottom: 15px;
 }
